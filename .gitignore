@@ -31,3 +31,5 @@ replay_pid*
 
 .idea
 *.iml
+output/
+log4j/src/main/resources/META-INF/MANIFEST.MF
